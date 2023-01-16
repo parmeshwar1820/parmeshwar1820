@@ -14,6 +14,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parmeshwar1820&show_icons=true&locale=en&layout=compact&theme=radical" alt="parmeshwar1820" /></p>
 <br>
+
+
+
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parmeshwar1820&show_icons=true&locale=en&theme=radical" alt="parmeshwar1820" /></p>
 
